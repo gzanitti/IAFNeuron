@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="de.erichseifert.gral:gral-core:0.11" type="repository">
+    <properties maven-id="de.erichseifert.gral:gral-core:0.11" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/erichseifert/gral/gral-core/0.11/gral-core-0.11.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/de/erichseifert/vectorgraphics2d/VectorGraphics2D/0.10/VectorGraphics2D-0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
